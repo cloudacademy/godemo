@@ -1,4 +1,4 @@
-module github.com/cloudacademy/go/demo
+module github.com/cloudacademy/godemo
 
 go 1.13
 
